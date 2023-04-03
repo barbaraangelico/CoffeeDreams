@@ -2,3 +2,5 @@ webmail/
 password.txt
 *.jpg
 *.vsc
+node_modules/
+
